@@ -13,3 +13,5 @@
 ## untuk run
 > python main.py
 ```
+
+<h1><a href ="https://www.youtube.com/channel/UCCfbokcjUPrLyU014tuc4SA">YouTube Tutorial</a></h1>
