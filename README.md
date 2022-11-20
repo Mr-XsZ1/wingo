@@ -1,3 +1,7 @@
+<img src="https://github.com/Mr-XsZ1/wingo/blob/main/ss/termux-wingo.jpg"/>
+<br><br>
+<h3>Install</h3><br>
+
 ```bash
 > termux-setup-storage
 > pkg update && pkg upgrade
