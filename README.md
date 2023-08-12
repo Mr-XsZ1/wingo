@@ -1,4 +1,7 @@
-<img src="https://github.com/Mr-XsZ1/wingo/blob/main/ss/termux-wingo.jpg"/>
+<br><br>
+<img src="https://github.com/Mr-XsZ1/wingo/blob/main/ss/20230813_062533-picsay.png"/>
+<br><br>
+<img src="https://github.com/Mr-XsZ1/wingo/blob/main/ss/20230813_062549-picsay.png"/>
 <br><br>
 <h3>Install</h3><br>
 
